@@ -1,0 +1,12 @@
+{
+    "name": "mb/targetspace",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "authors": [
+        {
+            "name": "vicMB243",
+            "email": "vicbiloko@gmail.com"
+        }
+    ]
+}
