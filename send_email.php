@@ -19,7 +19,9 @@
                         
                     //create object of PHPMailer
                 $mail= new PHPMailer(true);
-                $receiver = "vicbiloko@gmail.com";
+
+                //replace with targetspace's admin email 
+                $receiver = "adminemail@gmail.com";
 
 
                 try{
